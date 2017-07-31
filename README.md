@@ -1,2 +1,2 @@
 # Net.Chdk.Watchers.Volume.Core
-CHIMP volume watcher API
+[OBSOLETE] CHIMP volume watcher API
