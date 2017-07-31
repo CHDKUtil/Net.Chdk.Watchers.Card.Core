@@ -2,6 +2,7 @@
 
 namespace Net.Chdk.Watchers.Volume
 {
+    [Obsolete]
     public interface IVolumeWatcher : IDisposable
     {
         void Initialize();
